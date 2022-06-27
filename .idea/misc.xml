@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1945" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/drawable/ic_baseline_tv_24.xml" value="0.1945" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
         <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/layout/activity_detail_movie.xml" value="0.2234375" />
         <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/layout/fragment_movie.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/layout/movie_item.xml" value="0.1841880341880342" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/menu/menu_bottom.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/DhoYan027/AndroidStudioProjects/MovieCatalogue3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
